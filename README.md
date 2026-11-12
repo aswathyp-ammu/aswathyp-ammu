@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aswathyp-ammu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning RPA, Testing Automation, Cypress
+- 🌱 I’m currently learning RPA, Testing Automation, Cypress, Playwright - basically everything automation using AI & ML
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me (email me)
 - 😄 Pronouns: ...
